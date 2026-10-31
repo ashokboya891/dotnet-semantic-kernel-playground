@@ -6,7 +6,7 @@
 
 ---
 
-# 1. Objective
+# 1. Objective 
 
 The objective was to run an AI model locally on my machine and integrate it with a .NET application without depending on paid cloud AI APIs.
 
